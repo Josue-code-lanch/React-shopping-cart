@@ -1,0 +1,13 @@
+.section-listado {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.section-listado-body {
+  width: 100%;
+  background-color: white;
+}

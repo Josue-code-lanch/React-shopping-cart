@@ -1,0 +1,19 @@
+.categoria-container {
+  background-color: rgba(128, 128, 128, 0.21);
+  color: white;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(0, 0, 0, 0.283);
+  border-radius: 2px;
+}
+
+.categoria {
+  padding: 10px 25px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+  width: 500px;
+  max-width: 100%;
+}

@@ -1,0 +1,36 @@
+.producto-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-align: center;
+  width: 600px;
+  max-width: 100%;
+}
+.producto-info div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 20px;
+}
+.producto-info div span {
+  text-align: center;
+  width: 100%;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+.producto-image {
+  width: 50%;
+  height: 301px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.13);
+  box-shadow: -1px -1px 10px rgba(0, 0, 0, 0.1);
+}
+.description {
+  margin: 10px 0 10px 0;
+  width: 70%;
+  text-align: left;
+}

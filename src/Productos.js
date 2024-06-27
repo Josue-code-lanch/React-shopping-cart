@@ -1,5 +1,5 @@
 const PRODUCTOS = [
-    { id: 1, category: "Frutas", price: "$1", stocked: true, name: "Manzana", image: "./public/imgs/manzana.jpg", description: "Saborea la deliciosa combinación de dulzura y crujencia en cada mordisco de nuestras manzanas." },
+    { id: 1, category: "Frutas", price: "$1", stocked: true, name: "Manzana", image: "/imgs/manzana.jpg", description: "Saborea la deliciosa combinación de dulzura y crujencia en cada mordisco de nuestras manzanas." },
     {
         id: 2,
         category: "Frutas",

@@ -16,7 +16,7 @@ export default function FiltrarProductos({ productos }) {
           onFilterTextChange={setFilterText}
           onInStockOnlyChange={setInStockOnly}
         />
-        <Carrito cartItems={productos} />
+        {/* <Carrito cartItems={productos} /> */}
       </header>
       <ListaDeProductos
         productos={productos}
